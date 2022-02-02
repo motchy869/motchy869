@@ -1,4 +1,4 @@
-- An embedded software engineer living in Japan.
+- An embedded software engineer working on baseband DSP of digital tranceiver.
 - I’m interested in Signal Processing, Wireless Communication, and Control Engineering.
 - Following weblogs show what I am doing.
   - [motchyの備忘録 (old)](https://motchy99.blog.fc2.com/)
