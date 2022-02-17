@@ -1,4 +1,4 @@
-- An embedded software engineer working on baseband DSP of digital tranceiver.
+- An embedded software engineer working on baseband DSP of digital transceiver.
 - I’m interested in Signal Processing, Wireless Communication, and Control Engineering.
 - Following weblogs show what I am doing.
   - [門前の小僧 (old)](https://motchy99.blog.fc2.com/)
