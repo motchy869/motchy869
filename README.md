@@ -1,5 +1,5 @@
-- An embedded software engineer working on transceiver baseband DSP (modem, adaptive-equalizer).
-- I’m interested in Signal Processing, Wireless Communication, and Control Engineering.
+- An embedded software engineer working on DSP.
+- I’m interested in Signal Processing, Control Engineering, Quantum computing and FPGA.
 - Following weblogs show what I am doing.
   - [門前の小僧 (old)](https://motchy99.blog.fc2.com/)
   - [門前の小僧 (new)](https://motchy869.com/wordpress/)
