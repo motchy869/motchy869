@@ -1,4 +1,4 @@
-- An embedded software engineer working on DSP.
+- An embedded software engineer working on FPGA and DSP.
 - I’m interested in Signal Processing, Control Engineering, Quantum computing and FPGA.
 - Following weblogs show what I am doing.
   - [門前の小僧 (old)](https://motchy99.blog.fc2.com/)
