@@ -1,5 +1,5 @@
-- An embedded software engineer working on FPGA and DSP.
-- I’m interested in Signal Processing, Control Engineering, Quantum computing and FPGA.
+- FPGA and DSP (and embedded software) engineer working on RF measuring instrument.
+- I’m interested in Digital Signal Processing, Control Engineering, Machine-learning.
 - Following weblogs show what I am doing.
   - [門前の小僧 (old)](https://motchy99.blog.fc2.com/)
   - [門前の小僧 (new)](https://motchy869.com/wordpress/)
